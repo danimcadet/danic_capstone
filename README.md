@@ -106,7 +106,7 @@ The data used in this project can be found at the following sites:
 | unitid | unique IPEDS number |
 | school | institutions researched in the EMI report |
 | control | public or private designations |
-| peel_emi | From Third Way Out: The degree of economic mobility institutions provide; economic mobility index score when considering Pell-eligible student experiences |
+| pell_emi | From Third Way Out: The degree of economic mobility institutions provide; economic mobility index score when considering Pell-eligible student experiences |
 | inc1_emi | economic mobility index score when considering experiences of students from households earning >$30,000 and ≤$48,000 at the time of enrollment |
 | inc2_emi | economic mobility index score when considering experiences of students from households earning >$48,000 and ≤$75,000 at the time of enrollment |
 | inc3_emi | economic mobility index score when considering experiences of students from households earning >$75,000 and ≤$110,000 at the time of enrollment |
